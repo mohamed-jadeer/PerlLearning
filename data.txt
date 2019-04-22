@@ -1,0 +1,8 @@
+Unisys.Janet.addr
+Intel.James.addr1
+Accenture.Robby.addr2
+Intel.Jane.addr3
+Samsung.George.addr4
+Intel.Robert.addr6
+Apple.Intel.addr1
+Intel.Bob.addr1
